@@ -10,10 +10,8 @@
   "author": "Laura Veee",
   "license": "ISC",
   "dependencies": {
+    "crypto-js": "^3.1.5",
     "node-persist": "0.0.6",
     "yargs": "^3.15.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.11.0"
   }
 }

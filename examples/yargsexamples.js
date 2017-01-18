@@ -1,3 +1,5 @@
+// learning the basics of yargs library
+
 var argv = require('yargs')
     .command('hello', 'Greets the user', function(yargs) {
       yargs.options({
